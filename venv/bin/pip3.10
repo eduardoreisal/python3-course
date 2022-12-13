@@ -1,4 +1,4 @@
-#!/mnt/24f9bc42-c812-43cc-b630-0cab7cc77bef/Documents/python/venv/bin/python
+#!/home/eduardo/Documents/python3-course/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
